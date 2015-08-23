@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/pypy
 
 # stores the vector corresponding
 # to a given word

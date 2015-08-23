@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/pypy
 
 # This file takes in a file containing high dimensional
 # vectors as outputted by word2vec, a seed word, and a

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/pypy
 
 # This script takes as input a file produced by word2vec,
 # and splits it into two files: one containing the labels,
